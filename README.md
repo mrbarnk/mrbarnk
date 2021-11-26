@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Mrbarnk Github stats](https://github-readme-stats.vercel.app/api?username=mrbarnk&count_private=true&show_icons=true)
+
 <!--
 **mrbarnk/mrbarnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
