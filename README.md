@@ -4,6 +4,7 @@
 - 🔭 I am `Bankole Emmanuel (Mrbarnk)`
 - 😎 I am a `programmer / hustler`.
 - 🌱 I am a `Backend/AI` Developer.
+- 😎 I breath in Typescript/Nodejs/Laravel.
 - 👯 I’m currently working on a `WhatsApp eCommerce chatbot` system.
 - 💬 Ask me about `TECH`
 - 📫 How to reach me: `(mrbarnk1@gmail.com)`
