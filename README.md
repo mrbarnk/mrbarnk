@@ -3,8 +3,8 @@
 
 - 🔭 I am `Bankole Emmanuel (Mrbarnk)`
 - 😎 I am a `programmer / hustler`.
-- 🌱 I am a `Backend/Blockchain` Developer.
-- 👯 I’m currently working on a `WhatsApp eCommerce` chatbot.
+- 🌱 I am a `Backend/AI` Developer.
+- 👯 I’m currently working on a `WhatsApp eCommerce chatbot` system.
 - 💬 Ask me about `TECH`
 - 📫 How to reach me: `(mrbarnk1@gmail.com)`
 - ⚡ Fun fact: I make `my clients` laugh, and deliver projects before time. 😉😜
