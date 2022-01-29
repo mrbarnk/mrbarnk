@@ -5,10 +5,10 @@
 - 😎 I am a `programmer / hustler`.
 - 🌱 I am a `Backend/AI` Developer.
 - 😎 I breath in Typescript/Nodejs/Laravel.
-- 👯 I’m currently working on a `WhatsApp eCommerce chatbot` system.
+- 👯 I’m currently working on a `WhatsApp eCommerce chatbot, crypto telegram bot` system.
 - 💬 Ask me about `TECH`
 - 📫 How to reach me: `(mrbarnk1@gmail.com)`
-- ⚡ Fun fact: I make `my clients` laugh, and deliver projects before time. 😉😜
+- ⚡ Fun fact: I make `my clients` laugh, and I deliver projects before time. 😉😜
 
 ### 😁 You're Welcome To My World
 
