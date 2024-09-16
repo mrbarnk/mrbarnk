@@ -10,7 +10,7 @@
 
 ### 😁 You're Welcome To My World
 
-![Mrbarnk Github stats](https://github-readme-stats.vercel.app/api?username=mrbarnk&count_private=true&show_icons=true&&theme=gotham)
+![Mrbarnk Github stats](https://github-stats-six-puce.vercel.app/api?username=mrbarnk&count_private=true&show_icons=true&&theme=gotham)
 
 <!--
 **mrbarnk/mrbarnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 ##### General Statistics
 
-[![Bankole Emmanuel's Github Stats](https://github-readme-stats.vercel.app/api?username=mrbarnk&count_private=true&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/mrbarnk)
+[![Bankole Emmanuel's Github Stats](https://github-stats-six-puce.vercel.app/api?username=mrbarnk&count_private=true&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/mrbarnk)
 
 [![Bankole Emmanuel's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrbarnk&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/mrbarnk)
 
 ##### Languages/Tools/Stack
 
-[![Bankole Emmanuel's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mrbarnk&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/mrbarnk)
+[![Bankole Emmanuel's Github Stats](https://github-stats-six-puce.vercel.app/api/top-langs?username=mrbarnk&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/mrbarnk)
